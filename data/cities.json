@@ -25,99 +25,51 @@
       "id": "17806751"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "bcf7",
-      "cityName": "Palencia",
+      "id": "fe66",
+      "cityName": "Murias de Paredes",
       "country": "Spain",
-      "date": "2023-12-06T20:53:39.000Z",
-      "emoji": "ES",
-      "notes": "niiice",
-      "position": {
-        "lat": "41.92680320648791",
-        "lng": "-4.570312500000001"
-      }
-    },
-    {
-      "id": "7d43",
-      "cityName": "بوعشير",
-      "country": "Tunisia",
-      "date": "2024-03-04T20:56:12.270Z",
-      "emoji": "TN",
-      "notes": "x",
-      "position": {
-        "lat": "36.31512514748051",
-        "lng": "10.371093750000002"
-      }
-    },
-    {
-      "id": "a4e9",
-      "cityName": "Gmassa",
-      "country": "Morocco",
-      "date": "2024-03-05T15:38:45.881Z",
-      "emoji": "🇲🇦",
-      "notes": "nice",
-      "position": {
-        "lat": "31.353636941500987",
-        "lng": "-8.393554687500002"
-      }
-    },
-    {
-      "id": "a518",
-      "cityName": "طرزة الجنوبية",
-      "country": "Tunisia",
-      "date": "2024-03-05T15:43:21.615Z",
-      "emoji": "🇹🇳",
-      "notes": "",
-      "position": {
-        "lat": "35.53222622770339",
-        "lng": "9.580078125"
-      }
-    },
-    {
-      "id": "16ea",
-      "cityName": "Manzanares",
-      "country": "Spain",
-      "date": "2024-03-05T15:53:13.163Z",
+      "date": "2024-03-08T01:19:07.835Z",
       "emoji": "🇪🇸",
       "notes": "",
       "position": {
-        "lat": "38.865374851611634",
-        "lng": "-3.5156250000000004"
+        "lat": "42.826678882130224",
+        "lng": "-6.249536889603407"
       }
     },
     {
-      "id": "84af",
-      "cityName": "El Biod",
+      "id": "d5c0",
+      "cityName": "Sant Julia de Loria",
+      "country": "Andorra",
+      "date": "2024-03-08T01:19:18.222Z",
+      "emoji": "🇦🇩",
+      "notes": "",
+      "position": {
+        "lat": "42.45443127378982",
+        "lng": "1.4982530157162002"
+      }
+    },
+    {
+      "id": "11df",
+      "cityName": "Formiche Alto",
+      "country": "Spain",
+      "date": "2024-03-08T01:19:31.067Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "40.328494299314634",
+        "lng": "-0.8773357700808294"
+      }
+    },
+    {
+      "id": "5874",
+      "cityName": "El Kheiter",
       "country": "Algeria",
-      "date": "2024-03-05T15:53:24.009Z",
+      "date": "2024-03-08T01:33:59.918Z",
       "emoji": "🇩🇿",
       "notes": "",
       "position": {
-        "lat": "33.797408767572485",
-        "lng": "0.010986328125"
-      }
-    },
-    {
-      "id": "5538",
-      "cityName": "Govone",
-      "country": "Italy",
-      "date": "2024-03-05T16:54:31.214Z",
-      "emoji": "🇮🇹",
-      "notes": "",
-      "position": {
-        "lat": "44.793530904744074",
-        "lng": "8.107910156250002"
+        "lat": "34.35903751330426",
+        "lng": "0.1570240299556547"
       }
     }
   ]
