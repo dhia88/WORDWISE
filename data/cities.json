@@ -37,30 +37,6 @@
       "id": "98443197"
     },
     {
-      "id": "bcf7",
-      "cityName": "Palencia",
-      "country": "Spain",
-      "date": "2023-12-06T20:53:39.000Z",
-      "emoji": "ES",
-      "notes": "niiice",
-      "position": {
-        "lat": "41.92680320648791",
-        "lng": "-4.570312500000001"
-      }
-    },
-    {
-      "id": "7d43",
-      "cityName": "بوعشير",
-      "country": "Tunisia",
-      "date": "2024-03-04T20:56:12.270Z",
-      "emoji": "TN",
-      "notes": "x",
-      "position": {
-        "lat": "36.31512514748051",
-        "lng": "10.371093750000002"
-      }
-    },
-    {
       "id": "a4e9",
       "cityName": "Gmassa",
       "country": "Morocco",
@@ -73,18 +49,6 @@
       }
     },
     {
-      "id": "a518",
-      "cityName": "طرزة الجنوبية",
-      "country": "Tunisia",
-      "date": "2024-03-05T15:43:21.615Z",
-      "emoji": "🇹🇳",
-      "notes": "",
-      "position": {
-        "lat": "35.53222622770339",
-        "lng": "9.580078125"
-      }
-    },
-    {
       "id": "16ea",
       "cityName": "Manzanares",
       "country": "Spain",
@@ -94,30 +58,6 @@
       "position": {
         "lat": "38.865374851611634",
         "lng": "-3.5156250000000004"
-      }
-    },
-    {
-      "id": "84af",
-      "cityName": "El Biod",
-      "country": "Algeria",
-      "date": "2024-03-05T15:53:24.009Z",
-      "emoji": "🇩🇿",
-      "notes": "",
-      "position": {
-        "lat": "33.797408767572485",
-        "lng": "0.010986328125"
-      }
-    },
-    {
-      "id": "5538",
-      "cityName": "Govone",
-      "country": "Italy",
-      "date": "2024-03-05T16:54:31.214Z",
-      "emoji": "🇮🇹",
-      "notes": "",
-      "position": {
-        "lat": "44.793530904744074",
-        "lng": "8.107910156250002"
       }
     }
   ]
