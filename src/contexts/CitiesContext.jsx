@@ -120,6 +120,14 @@ function CitiesProvider({ children }) {
         createCity,
         deleteCity,
       }}
+      value={{
+        cities,
+        isLoading,
+        currentCity,
+        getCity,
+        createCity,
+        deleteCity,
+      }}
     >
       {children}
     </CitiesContext.Provider>
