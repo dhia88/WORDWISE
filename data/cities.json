@@ -13,18 +13,6 @@
       "id": "73930385"
     },
     {
-      "id": "fe66",
-      "cityName": "Murias de Paredes",
-      "country": "Spain",
-      "date": "2024-03-08T01:19:07.835Z",
-      "emoji": "🇪🇸",
-      "notes": "",
-      "position": {
-        "lat": "42.826678882130224",
-        "lng": "-6.249536889603407"
-      }
-    },
-    {
       "id": "d5c0",
       "cityName": "Sant Julia de Loria",
       "country": "Andorra",
@@ -46,6 +34,18 @@
       "position": {
         "lat": "40.328494299314634",
         "lng": "-0.8773357700808294"
+      }
+    },
+    {
+      "id": "360c",
+      "cityName": "الصفحة",
+      "country": "Tunisia",
+      "date": "2023-10-12T01:19:43.000Z",
+      "emoji": "🇹🇳",
+      "notes": "ki zebbi",
+      "position": {
+        "lat": "36.18518293336036",
+        "lng": "10.342597961425783"
       }
     }
   ]
